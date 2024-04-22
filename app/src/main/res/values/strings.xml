@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ShuruTest</string>
+    <string name="output_message">Please check the output in the Logcat</string>
 </resources>
