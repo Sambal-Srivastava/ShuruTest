@@ -3,7 +3,6 @@
 ## Tech choices
 - MVVM Pattern
 - AppCompat + Material Design - Layout Design
-- JetPack(MVVM) - Architecture Component
 - Retrofit2 - APIs
 - HILT - Dependency Injection
 - Coroutines- Asynchronous Api Call Handling
